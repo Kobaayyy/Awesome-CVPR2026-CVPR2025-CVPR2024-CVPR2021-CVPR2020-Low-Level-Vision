@@ -12,7 +12,7 @@ A Collection of Papers and Codes for CVPR2026/CVPR2025/CVPR2024/CVPR2021/CVPR202
 
 # 底层视觉社区信息平台：https://lowlevelcv.com/
 
-# Awesome-CVPR2025-Low-Level-Vision
+# Awesome-CVPR2026-Low-Level-Vision
 - [Awesome-CVPR2026-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2026.md)
 # Awesome-CVPR2025-Low-Level-Vision
 - [Awesome-CVPR2025-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-CVPR2025-CVPR2024-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2025.md)
